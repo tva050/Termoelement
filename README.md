@@ -10,3 +10,6 @@ Innhold: utilpasset lineær kurve, uten bruk av så mye pakker
 
 pip install av sckitlearn:
 pip install -U scikit-learn
+
+pip install av statsmodels:
+pip install statsmodels
