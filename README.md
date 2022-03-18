@@ -7,3 +7,6 @@ Innhold: utilpasset og tilpasset lineær kurve, bruk av mange pakker
 
 fil: termoelement_1.py
 Innhold: utilpasset lineær kurve, uten bruk av så mye pakker
+
+pip install av sckitlearn:
+pip install -U scikit-learn
